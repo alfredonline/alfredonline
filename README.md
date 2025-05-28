@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**alfredonline/alfredonline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Alfie
 
-Here are some ideas to get you started:
+I'm a software engineer building tools that help people **learn languages smarter**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Most Recent Project
+**[LinguaTrackr](https://linguatrackr.com)** – A study loggger and progress tracker for language learners. Track what you’ve studied and stay consistent.
+
+### 🚀 Working on / maintaining 
+**[YouTubeToSlides](https://youtubetoslides.com)** - A tool primarily for educators who want to generate presentations from educational YouTube videos. Thousands of presentations have been generated using this tool.
+
+
+### 🧰 Tech I Use
+Next.js • TypeScript • PostgreSQL • Java • Docker • Tailwind • Shadcn • MongoDB• Java (with Spring boot) • Kafka • Prisma  • Drizzle and a whole bunch of other cool technologies.
+
+I am interested in working on tools that help people. 
