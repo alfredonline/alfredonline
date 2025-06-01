@@ -3,7 +3,7 @@
 
 I'm a software engineer building tools that help people **learn languages smarter**.
 
-### 🚀 Most Recent Project
+### 🚀 Most Recent Project (actively maintaining and improving every day)
 **[LinguaTrackr](https://linguatrackr.com)** – A study loggger and progress tracker for language learners. Track what you’ve studied and stay consistent.
 
 ### 🚀 Working on / maintaining 
